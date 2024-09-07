@@ -1,0 +1,19 @@
+{
+  "name": "sticker-sorter",
+  "version": "1.0.0",
+  "description": "I have +12k whatsapp stickers, this repo should sort them in a file name hash map",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "tslib": "^2.7.0",
+    "typescript": "^5.5.4"
+  }
+}
